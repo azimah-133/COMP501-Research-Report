@@ -1,11 +1,11 @@
 /**
- * ENEL599 Physical Computing 2018 S2
+ * COMP501 Computing Tech in Society 2019 S1
  * 
- * Final Project - Sensor Robot
+ * Autonomous Car Project
  * 
  * This program code is of a 4-wheel drive motor with a distance sensor.
- * When the switch is off, the robot is still.
- * When the switch in on, the robot drives forward and drives backward when it encounters an obstacle.
+ * When the switch is off, the car is still.
+ * When the switch in on, the car drives forward and drives backward when it encounters an obstacle.
  * 
  * @author Azimah Ali
  * @version 1.6.12
